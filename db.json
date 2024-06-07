@@ -1,8 +1,26 @@
 {
-  "gallery": {
-    "title": "Yellowstone National Park",
-    "date": "May 31, 2023"
-  },
+  "galleries": [
+    {
+      "title": "Yellowstone National Park",
+      "date": "May 31, 2023",
+      "photo_url": "https://lanceolenik.com/yellowstone/"
+    },
+    {
+      "title": "Yellowstone National Park",
+      "date": "September 11, 2021",
+      "photo_url": "https://lanceolenik.com/yellowstone-9-11-21/"
+    },
+    {
+      "title": "Grand Teton National Park",
+      "date": "October 8, 2022",
+      "photo_url": "https://lanceolenik.com/tetons/"
+    },
+    {
+      "title": "Visit to Mexico",
+      "date": "October 4-15, 2021",
+      "photo_url": "https://lanceolenik.com/mexico/"
+    }
+  ],
   "photos": [
     {
       "id": 1,
