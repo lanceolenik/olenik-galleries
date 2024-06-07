@@ -1,4 +1,10 @@
 {
+  "gallery": [
+    {
+      "title": "Yellowstone National Park",
+      "date": "May 31, 2023"
+    }
+  ],
   "photos": [
     {
       "id": 1,
