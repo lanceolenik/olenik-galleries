@@ -3,22 +3,26 @@
     {
       "title": "Yellowstone National Park, 2023",
       "date": "May 31, 2023",
-      "photo_url": "yellowstone/pix/"
+      "photo_url": "yellowstone/pix/",
+      "video_url": "yellowstone/vid/"
     },
     {
       "title": "Yellowstone National Park, 2021",
       "date": "September 11, 2021",
-      "photo_url": "yellowstone-9-11-21/pix/"
+      "photo_url": "yellowstone-9-11-21/pix/",
+      "video_url": "yellowstone-9-11-21/vid/"
     },
     {
       "title": "Grand Teton National Park",
       "date": "October 8, 2022",
-      "photo_url": "tetons/pix/"
+      "photo_url": "tetons/pix/",
+      "video_url": "tetons/vid/"
     },
     {
       "title": "Visit to Mexico",
       "date": "October 4-15, 2021",
-      "photo_url": "mexico/pix/"
+      "photo_url": "mexico/pix/",
+      "video_url": "mexico/vid/"
     }
   ],
   "photos": [
