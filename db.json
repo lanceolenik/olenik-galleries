@@ -1,6 +1,12 @@
 {
   "galleries": [
     {
+      "title": "Costumes",
+      "date": "2006-Today",
+      "photo_url": "costumes/pix/",
+      "video_url": ""
+    },
+    {
       "title": "Homeschool Prom, May 2024",
       "date": "May 2024",
       "photo_url": "prom/pix/",
