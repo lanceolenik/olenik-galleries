@@ -1,45 +1,52 @@
 {
   "galleries": [
     {
-      "title": "Costumes",
-      "date": "2006-Today",
-      "photo_url": "costumes/pix/",
-      "video_url": ""
-    },
-    {
+      "date": "2024-5-1",
       "title": "Homeschool Prom, May 2024",
       "date": "May 2024",
       "photo_url": "prom/pix/",
       "video_url": ""
     },
     {
+      "date": "2024-1-1",
       "title": "Hurricane, January 2024",
       "date": "January 2024",
       "photo_url": "hurricane/pix/",
       "video_url": "hurricane/vid/"
     },
     {
+      "date": "2023-5-31",
       "title": "Yellowstone National Park, May 2023",
       "date": "May 31, 2023",
       "photo_url": "yellowstone/pix/",
       "video_url": "yellowstone/vid/"
     },
     {
+      "date": "2022-10-8",
       "title": "Grand Teton National Park, October 2022",
       "date": "October 8, 2022",
       "photo_url": "tetons/pix/",
       "video_url": ""
     },
     {
+      "date": "2021-10-4",
       "title": "Visit to Mexico, October 2021",
       "date": "October 4-15, 2021",
       "photo_url": "mexico/pix/",
       "video_url": "mexico/vid/"
     },
     {
+      "date": "2021-9-11",
       "title": "Yellowstone National Park, September 2021",
       "date": "September 11, 2021",
       "photo_url": "yellowstone-9-11-21/pix/",
+      "video_url": ""
+    },
+    {
+      "date": "2006-10-31",
+      "title": "Costumes",
+      "date": "2006-Today",
+      "photo_url": "costumes/pix/",
       "video_url": ""
     }
   ]
